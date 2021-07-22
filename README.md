@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.pinimg.com/564x/96/12/8d/96128d60d8ba547863b761d79f334af2.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://drive.google.com/file/d/19EUJLLqLxVmvKt9x2-lAAxFkSBTX4UYV/view?usp=sharing" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="KUNJUTTY" src="https://img.shields.io/badge/KUNJUTTY-%20-red"></a>
 </p>
