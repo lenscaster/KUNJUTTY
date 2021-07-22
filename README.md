@@ -2,10 +2,10 @@
 <div align="center">
   <img border-radius: 15px src="https://i.pinimg.com/564x/96/12/8d/96128d60d8ba547863b761d79f334af2.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Pikachu" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="KUNJUTTY" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/AUTHOR-lenscaster-red"></a>
+<a href="https://github.com/lenscaster"><img title="Author" src="https://img.shields.io/badge/AUTHOR-lenscaster-red"></a>
 </p>
 </div>
 <p align="center">
