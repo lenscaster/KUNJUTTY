@@ -2,7 +2,7 @@
 <div align="center">
   <img border-radius: 15px src="https://i.pinimg.com/564x/96/12/8d/96128d60d8ba547863b761d79f334af2.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Ponnu" src="https://img.shields.io/badge/Ponnu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Ponnu" src="https://img.shields.io/badge/Ponnu-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/vdj-akash/ponnu"><img title="Author" src="https://img.shields.io/badge/AUTHOR-VDJ%20AKASH-red"></a>
