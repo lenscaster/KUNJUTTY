@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://www.pandasecurity.com/en/mediacenter/src/uploads/2019/07/pandasecurity-How-do-hackers-pick-their-targets.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="lc.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Pikachu" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
