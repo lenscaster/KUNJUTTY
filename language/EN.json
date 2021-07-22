@@ -73,9 +73,9 @@
         },
         "heroku": {
             "RESTART_DESC": "Restart WhatsAsena",
-            "RESTART_MSG": "```Restarting...eppo varamee...🧚‍♂️```",
+            "RESTART_MSG": "```Restarting...``` \n*eppo varamee...🧚‍♂️*",
             "SHUTDOWN_DESC": "Shutdown WhatsAsena",
-            "SHUTDOWN_MSG": "```Wokke bie,Shutting down 😴```",
+            "SHUTDOWN_MSG": "```Wokke bie``` \n🤟🏻Shutting down 😴",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
