@@ -51,20 +51,20 @@
         },
         "afk": {
             "AFK_DESC": "It makes you AFK - Away From Keyboard.",
-            "IM_AFK": "*I'm AFK now!*",
-            "IM_AFK_NOMD": "I'm AFK now!",
+            "IM_AFK": "*Njan eppo AFK annu nanba...😴!*",
+            "IM_AFK_NOMD": "Njan eppo AFK annu nanba...😴!",
             "REASON": "Reason",
             "LAST_SEEN": "Last Seen",
-            "IM_NOT_AFK": "```I am not AFK anymore!```",
-            "AFK_TEXT": "```My owner is not here at the moment.```",
-            "AFK_TEXT_NOMD": "I am bot!",
+            "IM_NOT_AFK": "```I am not AFK anymore...! Baa polikkam...👽```",
+            "AFK_TEXT": "```mothalali eppom online illa man```",
+            "AFK_TEXT_NOMD": "You know...I am bot...🤖😌 !",
             "HOUR": "hour",
-            "MINUTE": "minute",
-            "SECOND": "second"
+            "MINUTE": "min",
+            "SECOND": "sec"
         },
         "evaluators": {
             "TERM_DESC": "Allows to run the command on the server's shell.",
-            "GIVE_ME_CODE": "*Give me a code!*"
+            "GIVE_ME_CODE": "*code thada monu...!*"
         },
         "nekobin": {
             "NEKO_DESC": "Replied messages will be added to nekobin.com.",
@@ -73,9 +73,9 @@
         },
         "heroku": {
             "RESTART_DESC": "Restart WhatsAsena",
-            "RESTART_MSG": "```Restarting...🧚‍♂️```",
+            "RESTART_MSG": "```Restarting...eppo varamee...🧚‍♂️```",
             "SHUTDOWN_DESC": "Shutdown WhatsAsena",
-            "SHUTDOWN_MSG": "```Shutting down 😴```",
+            "SHUTDOWN_MSG": "```Wokke bie,Shutting down 😴```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -92,9 +92,9 @@
         },
         "filters": {
             "FILTER_DESC": "It adds a filter. If someone writes your filter, it send the answer. If you just write .filter, it show's your filter list.",
-            "NO_FILTER": "*❌ There are no filters in this chat!*",
-            "FILTERS": "*🔎 There is your filters in this chat:*",
-            "NEED_REPLY": "*❌ Please type in reply!*\n*Example:*",
+            "NO_FILTER": "*❌ filter onnum chatil illallo daii!*",
+            "FILTERS": "*🔎 These are the filters in this chat 🤑 :*",
+            "NEED_REPLY": "*❌ vallo replyum thadai..!*\n*Example:*",
             "FILTERED": "*✅ Successfully set* ```{}``` *to filter!*",
             "STOP_DESC": "Stops the filter you added previously.",
             "NEED_FILTER": "*❌ Please type a filter!*\n*Example:*",
@@ -103,17 +103,17 @@
         },
         "greetings": {
             "WELCOME_DESC": "It sets the welcome message. If you leave it blank it shows the welcome message.",
-            "NOT_SET_WELCOME": "*You don't set the welcome message yet.!*\n**To set:** ```.welcome your welcome message```",
-            "WELCOME_ALREADY_SETTED": "*✅ Welcome message already set!*\n*Message:* ```",
+            "NOT_SET_WELCOME": "*You don't set the welcome message yet.!*\n**To set:** ```.welcome your welcome message```*\n**Adyam athu poyi set akku...😌*",
+            "WELCOME_ALREADY_SETTED": "*✅ Welcome message already set annu man...!*\n*Message:* ```",
             "NEED_WELCOME_TEXT": "*You must write a message to set up the welcome message.*\n*Example:* ```.welcome WELCOME!```",
-            "WELCOME_DELETED": "*✅ Welcome message has been deleted successfully!*",
-            "WELCOME_SETTED": "*✅ Welcome message has been set successfully!*",
+            "WELCOME_DELETED": "*✅ Welcome message has been deleted successfully..😶!*",
+            "WELCOME_SETTED": "*✅ Welcome message has been set successfully..👻!*",
             "GOODBYE_DESC": "Sets the goodbye message. If you leave blank, it show's the goodbye message.",
-            "NOT_SET_GOODBYE": "*You didn't set a goodbye message!*\n*To set:* ```.goodbye Your Goodbye Message```",
+            "NOT_SET_GOODBYE": "*Goodbye message onnum illadai...😅!*\n*To set:* ```.goodbye Your Goodbye Message```*\n**Adyam athu poyi set akku...😌*",
             "GOODBYE_ALREADY_SETTED": "*✅ Goodbye message has been set!*\n*Message:* ```",
             "NEED_GOODBYE_TEXT": "*You must write a message to set up the goodbye message.*\n*Example:* ```.goodbye Goodbye!```",
-            "GOODBYE_DELETED": "*✅ Goodbye message has been deleted successfully!*",
-            "GOODBYE_SETTED": "*✅ Goodbye message has been setted successfully!*"
+            "GOODBYE_DELETED": "*✅ Goodbye message has been deleted successfully..😶!*",
+            "GOODBYE_SETTED": "*✅ Goodbye message has been setted successfully..👻!*"
         },
         "lydia": {
             "ADDLYDIA_DESC": "Activates Lydia (AI) for the user.",
