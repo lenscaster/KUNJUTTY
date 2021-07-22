@@ -152,7 +152,7 @@
             "KICKME": "```Bye bye! njn povva... 🤠```",
             "PP_DESC": "Makes the profile pic what photo you reply.",
             "NEED_PHOTO": "*Give me a pic!*",
-            "PPING": "```Setting profile pic...``` "\n"*hang on...*",
+            "PPING": "```Setting profile pic...``` \n*hang on...*",
             "BLOCK_DESC": "Block user.",
             "UNBLOCK_DESC": "Unblock user.",
             "BLOCKED": "blocked",
