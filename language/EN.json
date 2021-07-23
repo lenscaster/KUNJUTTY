@@ -194,7 +194,7 @@
             "UPLOADING_VIDEO": "```Uploading...\n hang on a bit```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
-            "GETTING_VIDEOS": "```I'm bringing videos...```",
+            "GETTING_VIDEOS": "```I'm bringing videos...```\n*hang on...👀*",
             "NOT_FOUND": "*Thappinokeett kittiyilla ☹️*",
             "SEARCHING": "*🔎 Searching...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
