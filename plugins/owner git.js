@@ -10,7 +10,7 @@ if (Config.WORKTYPE == 'private') {
 
     var r_text = new Array ();
     
-    r_text[1] = "*╔═════😎Pikachu😎═════╗*\n           \n*⚜═Pikachu═⚜*\n\n*owner AmeerSuhail - http://Wa.me/+919946432377*\n* *\n🔰instagram:-https://www.instagram.com/ameer_.su_hail?r=nametag*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: AmeerSuhail*"
+    r_text[1] = "*╔═════😎NANDUZ😎═════╗*\n           \n*⚜═NANDUZ═⚜*\n\n*owner LENSCASTER(Parthiv) - http://Wa.me/919400616230*\n* *\n🔰instagram:-https://instagram.com/lens_caster?utm_medium=copy_link*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: parthiv*"
 
     
     await message.client.sendMessage(
@@ -23,7 +23,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "*Git links*\n           *\n💥═Pikachu Owner Ameer Suhail═💥*\n\n*💘https://github.com/ameer-kallumthodi/pikachu*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
+        r_text[1] = "*Git links*\n           *\n💥═NANDUZ Owner LENSCASTER═💥*\n\n*💘https://github.com/lenscaster/nanduz*\n*     *\n💓PONNUZ═Owner VDJ-akash═*\n\n*⚜https://github.com/vdj-akash/ponnus*"
 
     
         await message.client.sendMessage(
@@ -39,7 +39,7 @@ if (Config.WORKTYPE == 'private') {
 
     var r_text = new Array ();
     
-    r_text[1] = "*╔═════😎Pikachu😎═════╗*\n           \n*⚜═Pikachu═⚜*\n\n*owner AmeerSuhail - http://Wa.me/+919946432377*\n* *\n🔰instagram:-https://www.instagram.com/ameer_.su_hail?r=nametag*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: AmeerSuhail*"
+    r_text[1] = "*╔═════😎NANDUZ😎═════╗*\n           \n*⚜═NANDUZ═⚜*\n\n*owner LENSCASTER - http://Wa.me/919400616230*\n* *\n🔰instagram:-https://instagram.com/lens_caster?utm_medium=copy_link*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: PARTHIV*"
 
     
     await message.client.sendMessage(
@@ -52,7 +52,7 @@ if (Config.WORKTYPE == 'private') {
 
         var r_text = new Array ();
     
-        r_text[1] = "*Git links*\n           *\n💥═Pikachu Owner Ameer Suhail═💥*\n\n*💘https://github.com/ameer-kallumthodi/pikachu*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
+        r_text[1] = "*Git links*\n           *\n💥═NANDUZ Owner Ameer LENSCASTER═💥*\n\n*💘https://github.com/lenscaster/nanduz*\n*     *\n💓PONNUZ═Owner VDJ-akash═*\n\n*⚜https://github.com/vdj-akash/ponnus*"
 
     
         await message.client.sendMessage(
