@@ -90,8 +90,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ```
 
 ## Developers
-  <div align="center">
-   
+  <div align="center"> 
     [![lenscaster](nandu100.jpg?size=100)](https://github.com/lenscaster/nanduz) |  [![vdj-akash](vdj.jpg?size=100)](https://github.com/vdj-akash/ponnu) | [![lenscaster](nandu100.jpg?size=100)](https://github.com/lenscaster)
 ----|----|----
 [lenscaster](https://github.com/lenscaster)  | [vdj-akash](https://github.com/vdj-akash) | [lenscaster](https://github.com/lenscaster)
