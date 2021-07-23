@@ -91,11 +91,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ## Developers
   <div align="center">
-    
-  [![ameerkallumthodi](https://github.com/Pikachu-407x400.png?size=100)](https://github.com/ameerkallumthodi) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+    [![VDJ-AKASH](Ponnus.png?size=100)](https://github.com/vdj-akash/ponnu) |  [![vdj-akash](nandu100.jpg  ?size=100)](https://github.com/vdj-akash/ponnu) | [![VDJ-AKASH](Ponnus.png  .jpg?size=100)]( https://github.com/vdj-akash    )
 ----|----|----
-[farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+[VDJ-AKASH](https://github.com/vdj-akash  )  | [lenscaster](https://github.com/vdj-akash) | [lenscaster]( https://github.com/lenscaster    )
+Base, Bug Fixes, Modules | Bug Fixes, Modules | Modifiying  as   public
   </div>
     
 
