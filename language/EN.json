@@ -223,7 +223,7 @@
             "INVALID_HEROKU": "*❌ oho shit...*\n*Your Heroku information is wrong dude!*",
             "UPDATED": "*Updated 🙈 ✅*",
             "UPDATED_LOCAL": "*🧚‍ NANDUZ Set Ayallo 🧚‍!*",
-            "AFTER_UPDATE": "*😉 NANDUZ Restarting...👀 *\n*hang on a bit*"
+            "AFTER_UPDATE": "*😉 NANDUZ Restarting...👀*\n*hang on a bit*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
