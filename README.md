@@ -1,8 +1,8 @@
 
 <div align="center">
-  <img border-radius: 15px src="nandu.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="nandu.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="KUNJUTTY" src="https://img.shields.io/badge/KUNJUTTY-%20-red"></a>
+<a href="#"><img title="KUNJUTTY" src="https://img.shields.io/badge/NANDUZ-%20-red"></a>
 </p>
   <p align="center">
 <a href="https://github.com/lenscaster"><img title="Author" src="https://img.shields.io/badge/AUTHOR-lenscaster-red"></a>
@@ -92,7 +92,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![lenscaster](nandu.jpeg?size=50)](https://github.com/lenscaster) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![lenscaster](nandu100.jpg?size=100)](https://github.com/lenscaster) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
 [lenscaster](https://github.com/lenscaster)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
