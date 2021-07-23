@@ -92,7 +92,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
    
-    [![VDJ-AKASH](Ponnus.png?size=100)](https://github.com/vdj-akash/ponnu) |  [![lenscater](nandu100.jpg?size=100)](https://github.com/lenscaster/nanduz) | [![VDJ-AKASH](Ponnus.png?size=100)](https://github.com/vdj-akash)
+    [![VDJ-AKASH](Ponnus.png?size=100)](https://github.com/vdj-akash/ponnu) |  [![lenscater](nandu100.jpg?size=100)](https://github.com/lenscaster/nanduz) | [![VDJ-AKASH](Ponnus.png?size=100)](https://github.com/vdj-akash) 
 ----|----|----
 [VDJ-AKASH](https://github.com/vdj-akash)  | [lenscaster](https://github.com/lenscaster) | [VDJ-AKASH](https://github.com/vdj-akash)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Modifiying  as   public
