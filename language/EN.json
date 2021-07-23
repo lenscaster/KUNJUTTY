@@ -92,7 +92,7 @@
         },
         "filters": {
             "FILTER_DESC": "It adds a filter. If someone writes your filter, it send the answer. If you just write .filter, it show's your filter list.",
-            "NO_FILTER": "*❌ filter onnum chatil illallo daii!*",
+            "NO_FILTER": "*❌ filter onnum chatil illallo aliya..!*",
             "FILTERS": "*🔎 These are the filters in this chat 🤑 :*",
             "NEED_REPLY": "*❌ vallo replyum thadai..!*\n*Example:*",
             "FILTERED": "*✅ Successfully set* ```{}``` *to filter!*",
@@ -186,7 +186,7 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Perfect ok```",
             "NO_RESULT": "*Thappinokeett kittiyilla ☹️*",
-            "DOWNLOADING_SONG": "\n*Song onnu Thapatte vannille link ettu nokku...👀*\n",
+            "DOWNLOADING_SONG": "\n*Song onnu Thapatte*\n*vannille link ettu nokku...👀*\n",
             "UPLOADING_SONG": "\n*Uploading 📲 Use 🎧*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=_2N1P2V5kI4```",
