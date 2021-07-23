@@ -20,7 +20,7 @@ Asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️Vjd Akash✨️━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Vjd Akash 𝐛𝐨𝐭.
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 VDJ AKASH 𝐛𝐨𝐭.
             *Ponnu*
 
 ■□■□■□■□■□■□■□■□■□■□
