@@ -2,14 +2,14 @@
 <div align="center">
   <img border-radius: 15px src="Ponnus.png" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Ponnu" src="https://img.shields.io/badge/Ponnu-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Ponnus" src="https://img.shields.io/badge/Ponnus-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/vdj-akash/ponnu"><img title="Author" src="https://img.shields.io/badge/AUTHOR-VDJ%20AKASH-red"></a>
+<a href="https://github.com/vdj-akash/ponnus"><img title="Author" src="https://img.shields.io/badge/AUTHOR-VDJ%20AKASH-red"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/vdj-akash/ponnu">vdj-akash</a> to make it public
+Project created by <a href="https://github.com/vdj-akash/ponnus">vdj-akash</a> to make it public
     <br>
        | © |
         Reserved |
@@ -92,9 +92,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center"> 
    
-    [![vdj-akash](vdj.jpg?size=100)](https://github.com/vdj-akash/ponnu) |  [![lenscaster](nandu100.jpg?size=100)](https://github.com/lenscaster/nanduz) | [![vdj-akash](vdj.jpg?size=100)](https://github.com/vdj-akash/ponnu)
+    [![vdj-akash](vdj.jpg?size=100)](https://github.com/vdj-akash/ponnus) |  [![lenscaster](nandu100.jpg?size=100)](https://github.com/lenscaster/nanduz) | [![vdj-akash](vdj.jpg?size=100)](https://github.com/vdj-akash/ponnu)
 ----|----|----
-[vdj-akash](https://github.com/vdj-akash)  | [lenscaster](https://github.com/lenscaster) | [vdj-akash](https://github.com/vdj-akash/ponnu)
+[vdj-akash](https://github.com/vdj-akash)  | [lenscaster](https://github.com/lenscaster) | [vdj-akash](https://github.com/vdj-akash/ponnus)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Modifiying  as   public
   </div>
     
