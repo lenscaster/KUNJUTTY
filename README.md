@@ -62,7 +62,7 @@ $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
 $ git clone https://github.com/vdj-akash/ponnu
-$ cd pikachu
+$ cd ponnu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
