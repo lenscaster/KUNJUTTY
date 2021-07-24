@@ -36,7 +36,8 @@ Click WA logo to Join Support Group 👇
   [![join](lenscaster.png)](https://chat.whatsapp.com/GUhzlg6Yhkj611fLl5HkpN)
   <div align="center">
        
-  [![Readme Card]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenscaster)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lenscaster&repo=nandubot&theme=nightowl)](https://github.com/lenscaster/nanduz)
+  </div>
 
   </div>
     
